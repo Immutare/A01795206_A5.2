@@ -1,0 +1,24 @@
+Results of computation of files .\A5.2 Archivos de Apoyo\TC1\TC1.ProductList.json and .\A5.2 Archivos de Apoyo\TC1\TC1.Sales.json
+Total: 2481.8600000000006
+
+
+The computing time was: 0.0004360675811767578s
+
+
+
+Results of computation of files .\A5.2 Archivos de Apoyo\TC1\TC1.ProductList.json and .\A5.2 Archivos de Apoyo\TC2\TC2.Sales.json
+Total: 166568.22999999998
+
+
+The computing time was: 0.0004315376281738281s
+
+
+
+Results of computation of files .\A5.2 Archivos de Apoyo\TC1\TC1.ProductList.json and .\A5.2 Archivos de Apoyo\TC3\TC3.Sales.json
+Total: 165235.37
+
+
+The computing time was: 0.0009293556213378906s
+
+
+
